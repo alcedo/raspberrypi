@@ -36,7 +36,7 @@ Install Deluge torrent client with WebUI access
       
       This sequence installs the Deluge daemon, Mako (a template gallery for Python that the WebUI needs), the WebUI itself, and then starts the WebUI program. **Note: The default port for the WebUI is 8112**
 
-Open up a browser on your regular desktop machine and point it at the IP address of your Pi (e.g. http://192.168.1.102:8112).
+      Open up a browser on your regular desktop machine and point it at the IP address of your Pi (e.g. http://192.168.1.102:8112).
 
 
 2. [Click Here for additional deluge configurations ](http://www.howtogeek.com/141157/how-to-configure-your-raspberry-pi-for-remote-shell-desktop-and-file-transfer/all/) 
